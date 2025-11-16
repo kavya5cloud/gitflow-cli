@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+// Fix for shebang in TypeScript
+require('../dist/index.js');
