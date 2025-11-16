@@ -391,5 +391,6 @@ MIT License - see LICENSE file for details
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/gitflow-cli/discussions)
 
 ---
-
+Author: 
+Kavya Shree
 **Built with ❤️ using Node.js, TypeScript, and AI**test change
