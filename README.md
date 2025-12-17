@@ -33,7 +33,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gitflow-cli.git
+git clone https://github.com/kavya5cloud/gitflow-cli.git
 cd gitflow-cli
 
 # Install dependencies
